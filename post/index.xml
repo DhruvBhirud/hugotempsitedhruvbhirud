@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Dhruv Bhirud</title>
-    <link>https://example.com/post/</link>
+    <link>https://dhruvbhirud.github.io/post/</link>
     <description>Recent content in Posts on Dhruv Bhirud</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 13 Mar 2022 19:43:24 +0530</lastBuildDate><atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Mar 2022 19:43:24 +0530</lastBuildDate><atom:link href="https://dhruvbhirud.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello</title>
-      <link>https://example.com/post/hello/</link>
+      <link>https://dhruvbhirud.github.io/post/hello/</link>
       <pubDate>Sun, 13 Mar 2022 19:43:24 +0530</pubDate>
       
-      <guid>https://example.com/post/hello/</guid>
+      <guid>https://dhruvbhirud.github.io/post/hello/</guid>
       <description>First post</description>
     </item>
     
