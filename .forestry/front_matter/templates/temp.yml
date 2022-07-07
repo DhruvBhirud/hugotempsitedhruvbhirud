@@ -8,5 +8,3 @@ fields:
     required: false
   label: a
   description: aa
-pages:
-- content/aa.md
