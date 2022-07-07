@@ -1,4 +1,10 @@
 ---
 label: temp
 hide_body: true
-fields: []
+fields:
+- name: a
+  type: text
+  config:
+    required: false
+  label: a
+  description: aa
